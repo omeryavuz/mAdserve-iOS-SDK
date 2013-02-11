@@ -1,0 +1,5 @@
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+#endif
+
+#define SDK_VERSION @"4.1.4"
